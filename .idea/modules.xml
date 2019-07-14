@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mycocraft.iml" filepath="$PROJECT_DIR$/Mycocraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mycocraft_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mycocraft_main.iml" group="Mycocraft" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mycocraft_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mycocraft_test.iml" group="Mycocraft" />
+    </modules>
+  </component>
+</project>
